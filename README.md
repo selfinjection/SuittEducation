@@ -12,7 +12,7 @@ The project follows a RESTful architecture for its API design. This means that i
 
 **Frontend:** NextJS, Typescript
 
-**Backend:** Golang
+**Backend:** Golang/Gin
 
 **Database:** MongoDB, Redis
 
@@ -29,3 +29,5 @@ Remember that contributing to open-source projects is an excellent way to gain p
 
 # Project team
 Trace (Illia) frontend/backend developer: [@shiftright](https://t.me/shiftright)
+
+Looking for designers, frontend/backend developers, devops, mobile developers, QA egnineer 
