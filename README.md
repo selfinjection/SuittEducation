@@ -9,8 +9,11 @@ SuittEducation embodies a dynamic and collaborative approach to education, empow
 The project follows a RESTful architecture for its API design. This means that it uses a set of standard conventions for creating, updating, and retrieving data through HTTP requests. REST APIs are known for their simplicity and scalability, making them a popular choice for building web services.
 
 Frontend: NextJS, Typescript
+
 Backend: Golang
+
 Database: MongoDB, Redis
+
 Mobile version: React Native
 
 # Contributing to the Project
