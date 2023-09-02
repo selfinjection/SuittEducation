@@ -7,7 +7,7 @@ SuittEducation embodies a dynamic and collaborative approach to education, empow
 
 
 
-# Technology stack
+## Technology stack
 The project follows a RESTful architecture for its API design. This means that it uses a set of standard conventions for creating, updating, and retrieving data through HTTP requests. REST APIs are known for their simplicity and scalability, making them a popular choice for building web services.
 
 **Frontend:** NextJS, Typescript
@@ -20,14 +20,22 @@ The project follows a RESTful architecture for its API design. This means that i
 
 
 
-# Contributing to the Project
+## Contributing to the Project
 For students interested in contributing to this project, it's essential to have a good understanding of the technologies mentioned in the stack. Familiarize yourself with REST API principles, Next.js, TypeScript, Go (Golang), MongoDB, Redis, and React Native.
 
 Remember that contributing to open-source projects is an excellent way to gain practical experience, build your portfolio, and collaborate with a community of developers while making a meaningful impact on a real-world project.
 
 
 
-# Project team
+## Project team
 Trace (Illia) frontend/backend developer: [@shiftright](https://t.me/shiftright)
 
 Looking for designers, frontend/backend developers, devops, mobile developers, QA egnineer 
+
+# Current TODO
+- [ ] Platform design
+- [ ] Conecept of online video conference (zoom analogy inside platform)
+- [ ] Environment configuration (docker, ci/cd pipeline, test_build, prod_build)
+ 
+
+
