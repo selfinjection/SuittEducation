@@ -5,21 +5,27 @@ What sets SuittEducation apart is its open-source nature. This means that studen
 
 SuittEducation embodies a dynamic and collaborative approach to education, empowering both students and teachers to shape their learning environment while upholding the highest standards of academic excellence. It exemplifies the intersection of technology and education, propelling the State University of Intelligent Technologies and Communications into the future of learning.
 
+
+
 # Technology stack
 The project follows a RESTful architecture for its API design. This means that it uses a set of standard conventions for creating, updating, and retrieving data through HTTP requests. REST APIs are known for their simplicity and scalability, making them a popular choice for building web services.
 
-Frontend: NextJS, Typescript
+**Frontend:** NextJS, Typescript
 
-Backend: Golang
+**Backend:** Golang
 
-Database: MongoDB, Redis
+**Database:** MongoDB, Redis
 
-Mobile version: React Native
+**Mobile version:** React Native
+
+
 
 # Contributing to the Project
 For students interested in contributing to this project, it's essential to have a good understanding of the technologies mentioned in the stack. Familiarize yourself with REST API principles, Next.js, TypeScript, Go (Golang), MongoDB, Redis, and React Native.
 
 Remember that contributing to open-source projects is an excellent way to gain practical experience, build your portfolio, and collaborate with a community of developers while making a meaningful impact on a real-world project.
+
+
 
 # Project team
 Trace (Illia) frontend/backend developer: [@shiftright](https://t.me/shiftright)
